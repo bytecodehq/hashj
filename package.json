@@ -1,5 +1,5 @@
 {
-  "name": "jhash",
+  "name": "hashj",
   "version": "1.0.0",
   "description": "Java hashcode functions for Nodejs",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bytecodehq/jhash.git"
+  },
+  "publishConfig": {
+    "registry": " https://registry.npmjs.org"
   },
   "keywords": [
     "java",
