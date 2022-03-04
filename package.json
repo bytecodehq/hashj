@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bytecodehq/jhash.git"
+    "url": "git+https://github.com/bytecodehq/hashj.git"
   },
   "publishConfig": {
     "registry": " https://registry.npmjs.org"
@@ -23,9 +23,9 @@
   "author": "Akhil Bojedla",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bytecodehq/jhash/issues"
+    "url": "https://github.com/bytecodehq/hashj/issues"
   },
-  "homepage": "https://github.com/bytecodehq/jhash#readme",
+  "homepage": "https://github.com/bytecodehq/hashj#readme",
   "dependencies": {
     "long": "^5.2.0"
   }
