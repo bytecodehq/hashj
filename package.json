@@ -1,0 +1,29 @@
+{
+  "name": "jhash",
+  "version": "1.0.0",
+  "description": "Java hashcode functions for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytecodehq/jhash.git"
+  },
+  "keywords": [
+    "java",
+    "string-hashcode",
+    "hashcode",
+    "uuid",
+    "uuid-hashcode"
+  ],
+  "author": "Akhil Bojedla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytecodehq/jhash/issues"
+  },
+  "homepage": "https://github.com/bytecodehq/jhash#readme",
+  "dependencies": {
+    "long": "^5.2.0"
+  }
+}
