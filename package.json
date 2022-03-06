@@ -1,6 +1,6 @@
 {
   "name": "hashj",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Java hashcode functions for Nodejs",
   "main": "index.js",
   "scripts": {
